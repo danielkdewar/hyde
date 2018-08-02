@@ -1,6 +1,9 @@
 +++
-Description = ""
-Tags = ["Development", "golang"]
-Categories = ["Development", "GoLang"]
-menu = "main"
+Categories = ["Review"]
+description = ""
+Tags = ["cinema","criticism","review"]
+date = ""
+title = ""
+author = ""
+featured_image = ""
 +++
